@@ -1,0 +1,7 @@
+base   headerfooter
+author Li Zheng
+email  lzpublic@qq.com
+date   2014-09-20
+name   HeaderFooter plugin
+desc   Add header or footer text in every page in a namespace without the need to edit pages.
+url    http://www.sina.com
